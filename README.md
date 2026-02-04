@@ -39,7 +39,7 @@ and audit privilege escalation vectors on Linux systems.
 
 ## Let's Connect!
 📧 parthchavda159@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/parthchavda1)  
-🔗 [GitHub](https://github.com/ParthChavda01)  
+💼 [LinkedIn](https://linkedin.com/in/parthchavda01)  
+🔗 [GitHub](https://github.com/ParthChavda1)  
 
 *Always learning, always building.* 🚀

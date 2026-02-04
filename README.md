@@ -1,5 +1,3 @@
-# About Me
-
 👋 Hi! I'm Parth - a systems engineer who loves building things from scratch.
 
 ## What I'm Working On
